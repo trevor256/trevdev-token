@@ -5,4 +5,4 @@ games, and other solana projects.
 
 This repo hosts the image file for the token, and....
 
-<img src="https://github.com/trevor256/trevdev-token/blob/main/trevdev.svg">
+<img width='100px' src="https://github.com/trevor256/trevdev-token/blob/main/trevdev.svg">
